@@ -30,6 +30,15 @@ p {
                                 supported by Chrome, Edge, Opera and Firefox */
 }
 
+#bonzi {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  height: 50px;
+  width: auto;
+  cursor: pointer;
+}
+
 #ball {
   height: 100px;
   width: 100px;
@@ -40,7 +49,7 @@ p {
 
 #goal {
   position: absolute;
-  left: 900px;
+  right: 0;
   top: 300px;
   pointer-events: none;
 }

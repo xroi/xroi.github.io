@@ -1,7 +1,11 @@
 // target elements with the "draggable" class
 interact(".draggable").draggable({
   // enable inertial throwing
-  inertia: true,
+  inertia: {
+    resistance: 5,
+    minSpeed: 200,
+    endSpeed: 100,
+  },
   // keep the element within the area of it's parent
   modifiers: [
     interact.modifiers.restrictRect({
