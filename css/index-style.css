@@ -15,17 +15,24 @@ p {
   font-family: "Comic Sans MS";
 }
 
+.NonAssable {
+  -webkit-user-drag: none;
+  -khtml-user-drag: none;
+  -moz-user-drag: none;
+  -o-user-drag: none;
+  user-drag: none;
+}
+
 #ball {
   height: 100px;
   width: 100px;
   background-color: #bbb;
   border-radius: 50%;
   display: inline-block;
+}
 
-  -webkit-touch-callout: none; /* iOS Safari */
-  -webkit-user-select: none; /* Safari */
-  -khtml-user-select: none; /* Konqueror HTML */
-  -moz-user-select: none; /* Old versions of Firefox */
-  -ms-user-select: none; /* Internet Explorer/Edge */
-  user-select: none;
+#goal {
+  position: absolute;
+  left: 900px;
+  top: 300px;
 }
