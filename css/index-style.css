@@ -24,6 +24,14 @@ p {
   user-select: none;
 }
 
+#amogus {
+  position: fixed;
+  left: 50%;
+  bottom: 0;
+  height: 50px;
+  width: auto;
+}
+
 #bonzi {
   position: fixed;
   right: 0;
@@ -46,4 +54,9 @@ p {
   right: 0;
   top: 300px;
   pointer-events: none;
+}
+
+#quiet {
+  font-size: large;
+  color: pink;
 }
