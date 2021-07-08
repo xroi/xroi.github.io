@@ -1,12 +1,15 @@
 body {
-  background-color: gray;
+  background: url(../Media/background.gif) gray;
+  background-repeat: repeat;
 }
 
 h1 {
   font-family: "Comic Sans MS";
+  color: white;
 }
 
 p {
+  color: white;
   font-family: "Comic Sans MS";
 }
 
@@ -54,9 +57,16 @@ p {
   right: 0;
   top: 300px;
   pointer-events: none;
+  height: 500px;
+  width: auto;
 }
 
 #quiet {
   font-size: large;
   color: pink;
+}
+
+#credit {
+  left: 50%;
+  bottom: 0;
 }
