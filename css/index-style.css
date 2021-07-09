@@ -1,6 +1,7 @@
 body {
   background: url(../Media/background.gif) gray;
   background-repeat: repeat;
+  overflow-x: hidden;
 }
 
 h1 {
@@ -25,6 +26,12 @@ p {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+}
+
+#bloodbar {
+  width: 100vw;
+  top: 0;
+  position: absolute;
 }
 
 #amogus {
