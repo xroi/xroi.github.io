@@ -1,0 +1,25 @@
+body {
+  background: url(../Media/MedivalBackground.gif) gray;
+  background-repeat: repeat;
+  overflow-x: hidden;
+}
+
+h1 {
+  color: White;
+  text-decoration: underline overline;
+  text-shadow: 2px 2px #ff0000;
+  text-align: center;
+}
+
+h2 {
+  color: White;
+  text-decoration: underline overline;
+  text-shadow: 2px 2px #ff0000;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
