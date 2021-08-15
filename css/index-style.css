@@ -72,6 +72,15 @@ p {
   cursor: pointer;
 }
 
+#notes {
+  position: fixed;
+  right: 12%;
+  bottom: 0;
+  height: 60px;
+  width: auto;
+  cursor: pointer;
+}
+
 #ball {
   height: 100px;
   width: 100px;
