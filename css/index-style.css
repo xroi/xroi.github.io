@@ -6,11 +6,13 @@ body {
 
 h1 {
     font-family: "Comic Sans MS";
-    color: white;
+    color: gray;
+    font-size: xxx-large;
+    text-shadow: 5px 5px pink;
 }
 
 p {
-    color: orange;
+    color: gray;
     font-family: "Comic Sans MS";
 }
 
@@ -28,8 +30,21 @@ p {
     user-select: none;
 }
 
+.barlink:hover {
+    background-color: yellow;
+}
+
+#header {
+    color: white;
+    bottom: 0;
+    height: 50px;
+    border-left: 0;
+    border-right: 0;
+}
+
 #bloodbar {
     width: 100vw;
+    left: 0;
     top: 0;
     position: absolute;
 }
@@ -97,3 +112,4 @@ p {
     left: 50%;
     bottom: 0;
 }
+
