@@ -1,109 +1,99 @@
 body {
-  background: url(../Media/background.gif) gray;
-  background-repeat: repeat;
-  overflow-x: hidden;
+    background: url(../Media/background.gif) gray;
+    background-repeat: repeat;
+    overflow-x: hidden;
 }
 
 h1 {
-  font-family: "Comic Sans MS";
-  color: white;
+    font-family: "Comic Sans MS";
+    color: white;
 }
 
 p {
-  color: orange;
-  font-family: "Comic Sans MS";
+    color: orange;
+    font-family: "Comic Sans MS";
 }
 
 .NonAssable {
-  -webkit-user-drag: none;
-  -khtml-user-drag: none;
-  -moz-user-drag: none;
-  -o-user-drag: none;
-  user-drag: none;
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -o-user-select: none;
-  user-select: none;
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -o-user-drag: none;
+    user-drag: none;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;
 }
 
 #bloodbar {
-  width: 100vw;
-  top: 0;
-  position: absolute;
+    width: 100vw;
+    top: 0;
+    position: absolute;
 }
 
-#things {
-  position: fixed;
-  right: 12%;
-  bottom: 2%;
-  height: 50px;
-  width: auto;
-  cursor: pointer;
-  color: white;
-  text-decoration: underline;
-}
 
 #bonzi {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  height: 50px;
-  width: auto;
-  cursor: pointer;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    height: 50px;
+    width: auto;
+    cursor: pointer;
 }
 
 #sun {
-  position: fixed;
-  right: 3%;
-  bottom: 0;
-  height: 60px;
-  width: auto;
-  cursor: pointer;
+    position: fixed;
+    right: 25%;
+    bottom: 0;
+    height: 60px;
+    width: auto;
+    cursor: pointer;
 }
 
 #ink {
-  position: fixed;
-  right: 7%;
-  bottom: 0;
-  height: 60px;
-  width: auto;
-  cursor: pointer;
+    position: fixed;
+    right: 50%;
+    bottom: 0;
+    height: 60px;
+    width: auto;
+    cursor: pointer;
 }
 
 #notes {
-  position: fixed;
-  right: 12%;
-  bottom: 0;
-  height: 60px;
-  width: auto;
-  cursor: pointer;
+    position: fixed;
+    right: 75%;
+    bottom: 0;
+    height: 60px;
+    width: auto;
+    cursor: pointer;
 }
 
 #ball {
-  height: 100px;
-  width: 100px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
+    height: 100px;
+    width: 100px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
 }
 
 #goal {
-  position: absolute;
-  right: 0;
-  pointer-events: none;
-  top: 300px;
-  height: 500px;
-  width: auto;
+    position: absolute;
+    right: 0;
+    pointer-events: none;
+    top: 300px;
+    height: 500px;
+    width: auto;
 }
 
 #quiet {
-  font-size: large;
-  color: pink;
+    font-size: large;
+    color: pink;
 }
 
 #credit {
-  left: 50%;
-  bottom: 0;
+    left: 50%;
+    bottom: 0;
 }
