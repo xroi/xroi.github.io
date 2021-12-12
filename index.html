@@ -8,10 +8,12 @@
         bro
     </title>
 </head>
-<body style="font-size: normal; text-align: center">
+<body style="font-size: medium; text-align: center" id="cock">
 
-<div style="text-align: left; width: 100%; height: 5%; position: fixed; bottom: 0;  background-color: #6e2a2c">
-    sup
+<div
+        style="text-align: left; width: 100%; height: 5%; position: fixed; bottom: 0;  background-color: #381516">
+    <p id="help"></p>
+    <button onclick="change()">sup</button>
 </div>
 
 <img
@@ -44,39 +46,66 @@
 <a class="NonAssable" href="you.html">
     <img id="goal" src="Media\goal.gif"/>
 </a>
-<h1>▌│█║▌║▌║ [̲̅R][̲̅o][̲̅i][̲̅'][̲̅s] [̲̅W][̲̅e][̲̅b][̲̅s][̲̅i][̲̅t][̲̅e]
+<h1 class="glow">▌│█║▌║▌║ [̲̅R][̲̅o][̲̅i][̲̅'][̲̅s]
+    [̲̅W][̲̅e][̲̅b][̲̅s][̲̅i][̲̅t][̲̅e]
     ║▌║▌║█│▌</h1>
 <img src="Media\welcome.gif"/>
 <img src="Media\welcome.gif"/>
 <img src="Media\welcome.gif"/>
-<p id="para1">welcoe to my <s>website</s> toaster this is where i will write
-    things and u can see them if you want to</p>
-<p>working ball!!!!!:</p>
-<p></p>
-<p></p>
-<p></p>
-<img id="ball" class="draggable" class="NonAssable" src="Media\ball.gif"/>
+<p id="para1" class="help">welcoe to my <s>website</s> toaster this is where i
+    will write
+    things and u can see them if you want too<br><br></p>
+<p class="help">working balls!!!!! (u can play):</p>
 
-<p>my favorite song: (heya)(dont ask how i downloaded it)</p>
+
+<img id="ball" class="draggable"
+     class="NonAssable" src="Media\ball.gif"/>
+<img id="ball" class="draggable"
+     class="NonAssable" src="Media\ball.gif"/>
+<img id="ball" class="draggable"
+     class="NonAssable" src="Media\ball.gif"/>
+<img id="ball" class="draggable"
+     class="NonAssable" src="Media\ball.gif"/>
+<img id="ball" class="draggable"
+     class="NonAssable" src="Media\ball.gif"/>
+<img id="ball" class="draggable"
+     class="NonAssable" src="Media\ball.gif"/>
+<img id="ball" class="draggable"
+     class="NonAssable" src="Media\ball.gif"/>
+<img id="ball" class="draggable"
+     class="NonAssable" src="Media\eye.gif"/>
+<img id="ball" class="draggable"
+     class="NonAssable" src="Media\eye.gif"/>
+
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p class="help">my favorite song: (heya)(dont ask how i downloaded it)</p>
 <audio controls>
     <source src="Media\Hey Ya! Low quality.mp3" type="audio/mp3"/>
 </audio>
-<p>my big sisters favorite ong:</p>
+<p class="help">my big sisters favorite ong:</p>
 <audio controls>
     <source src="Media\Bitter Sweet Symphony.mp3" type="audio/mp3"/>
 </audio>
-<p>
+<p><br></p>
+<p class="help">
     my favoreite game: GTA vice city (but my mom isnt letting me play it
     because i was in the strip club accitendaly)
 </p>
+<p><br></p>
+<p><br></p>
 <p style="font-size: xx-large">F*CK
     SCHOOLL!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>
-<a id="quiet" href="waifu.html"
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<a id="quiet" href="waifu.html" class="help"
 >~My Waifu~<br/><br/><br/><br/><br/><br/><br/><br/><br/><br
 /></a>
 <img src="Media\underconstruct.gif"/>
 
-<a id="quiet" href="quiet.html">
+<a id="quiet" href="quiet.html" class="help">
     <br/><br/><br/><br/><br/><br/><br/><br/><br/>QUIET please thank
     you click for</a
 >
@@ -90,5 +119,19 @@
 <p id="credit"><br/>© 2003 roi6566561@email.com</p>
 <script src="https://cdn.jsdelivr.net/npm/interactjs/dist/interact.min.js"></script>
 <script type="text/javascript" src="Scripts\BallMovement2.js"></script>
+<script>
+    function change() {
+        document.getElementById("help").innerHTML = "i wish i wasn't alone anymore";
+        const elems = document.getElementsByClassName('help')
+        for (let i = 0; i < elems.length; i++) {
+            elems[i].style.backgroundColor = 'yellow'
+            elems[i].innerHTML = "STOP"
+            elems[i].style.color = 'red'
+            elems[i].style.fontSize = "xxx-large"
+        }
+        document.getElementById("cock").style.background = "yellow"
+
+    }
+</script>
 </body>
 </html>
