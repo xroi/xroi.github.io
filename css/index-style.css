@@ -2,6 +2,7 @@ body {
     background: url(../Media/background.gif) gray;
     background-repeat: repeat;
     overflow-x: hidden;
+    cursor: url('../Media/cursor.png'), auto;
 }
 
 h1 {
