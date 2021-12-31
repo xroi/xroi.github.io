@@ -13,7 +13,7 @@ h1 {
 }
 
 p {
-    color: gray;
+    color: rgb(182, 179, 179);
     font-family: "Comic Sans MS";
 }
 
@@ -111,4 +111,5 @@ p {
 #credit {
     left: 50%;
     bottom: 0;
+    text-align: left;
 }
