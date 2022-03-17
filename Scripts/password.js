@@ -4,7 +4,7 @@ function fn1() {
     if (pass == "(1,1)" || pass == "(1, 1)" || pass == "1,1" || pass == "1, 1") {
         window.location.href = "https://xroi.github.io/landing";
     } else {
-        document.getElementById("info").innerHTML = "WRONG";
+        alert("lmao did you really think it's " + pass + "?")
     }
 
 }
