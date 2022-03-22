@@ -87,6 +87,15 @@ p {
     cursor: pointer;
 }
 
+#bird {
+    position: fixed;
+    right: 0;
+    bottom: 25%;
+    height: 60px;
+    width: auto;
+    cursor: pointer;
+}
+
 #ball {
     height: 125px;
     width: 125px;
