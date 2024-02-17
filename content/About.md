@@ -1,8 +1,8 @@
 
 #### > whoami
-This is my little corner on the web :) My name is Roi Eliasian, and I am a computer science and computational biology BSc student at the Hebrew University of Jerusalem (HUJI). I live in Israel, and speak Hebrew and English. 
+My name is Roi Eliasian, and I am a computer science and computational biology BSc student at the Hebrew University of Jerusalem (HUJI).
 
-Currently I am studying for my 3rd and final year. Additionally I perform research in [Dr. Barak Raveh's lab](https://www.ravehlab.org/), where I helped develop a computational High-Speed [Atomic Force Microscopy](https://en.wikipedia.org/wiki/Atomic_force_microscopy) Simulation.  
+Currently I am studying for my 3rd and final year. Additionally, I perform research in [Dr. Barak Raveh's lab](https://www.ravehlab.org/), where I helped develop a computational High-Speed [Atomic Force Microscopy](https://en.wikipedia.org/wiki/Atomic_force_microscopy) Simulation.  
 
 What I publish in this website/blog is mostly as a reference to myself, but is available to be consumed by all. For how I made this site, please check out [[Meta Information]].
 

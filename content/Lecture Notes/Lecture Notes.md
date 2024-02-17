@@ -45,6 +45,9 @@ Feel free to contact me for any inquiries.
 * [[Mathematical Tools For Computer Science]]
 	* Format: Typed (Latex)
 	* Language: English
+* [[Introduction To Cryptography and Software Security]]
+	* Format: Typed (Latex)
+	* Language: Hebrew
 
 ---
 #### Semester 6
