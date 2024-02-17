@@ -3,7 +3,7 @@ draft: "True"
 ---
 
 
-* Personalization of colours and typography in the `quartz.config.ts` file. List changes made in [[My Quartz Configuration]].
+* ~~Personalization of colours and typography in the `quartz.config.ts` file. List changes made in [[My Quartz Configuration]].
 * ~~Removal / Modification of the footer to be less distracting.
 * ~~Create a landing page and come up with convenient and organized linking pattern.
 * Add an about page/paragraph, and some links to my other stuff (Email, LinkedIn, Blog, pgp key, https://ai-label.org/) lang, place, edu, 
