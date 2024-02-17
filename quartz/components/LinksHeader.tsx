@@ -16,11 +16,11 @@ export default (() => {
           </span>
                     <span>
             <img src=""></img>
-            <a href="/about">About</a>
+            <a href="/About">About</a>
           </span>
                     <span>
             <img src=""></img>
-            <a href="/">Temp</a>
+            <a href="/Lecture-Notes/Lecture-Notes">Lecture Notes</a>
           </span>
                     <span>
             <img src=""></img>

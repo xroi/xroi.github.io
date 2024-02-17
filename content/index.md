@@ -4,6 +4,6 @@ title: Home
 ## Welcome!
 Hello, and welcome to my personal website. Here are some useful links:
 
-* About
+* [[About]]
 * [[Lecture Notes]]
 * [[Meta Information]]

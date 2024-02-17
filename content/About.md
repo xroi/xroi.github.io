@@ -8,8 +8,8 @@ What I publish in this website/blog is mostly as a reference to myself, but is a
 
 #### > whereami
 You can reach me at a the following places:
-📧 Personal Email: roi6566561@gmail.com
-📧 University Email: roi.eliasian@mail.huji.ac.il
-💻 [GitHub](https://github.com/xroi)
-💼 [LinkedIn](https://www.linkedin.com/in/roi-eliasian-22630a166/)
+* 📧 Personal Email: roi6566561@gmail.com
+* 📧 University Email: roi.eliasian@mail.huji.ac.il
+* 💻 [GitHub](https://github.com/xroi)
+* 💼 [LinkedIn](https://www.linkedin.com/in/roi-eliasian-22630a166/)
 
