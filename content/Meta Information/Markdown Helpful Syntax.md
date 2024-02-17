@@ -1,1 +1,0 @@
-This note serves a reminder for useful markdown syntax.
