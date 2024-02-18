@@ -1,0 +1,1 @@
+For now this section is empty, until I figure out a way to prevent AI firms from scraping my poems.
