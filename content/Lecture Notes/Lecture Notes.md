@@ -6,7 +6,7 @@ Also, you can take a look at this [Google doc](https://docs.google.com/document/
 Feel free to contact me for any inquiries.
 
 ----
-#### Semester 1
+#### Semester A, 21-22
 * [[Linear Algebra 1]]
 	* Format: Handwritten
 	* Language: Hebrew
@@ -14,7 +14,7 @@ Feel free to contact me for any inquiries.
 	* Format: Handwritten
 	* Language: Hebrew
 ---
-#### Semester 2
+#### Semester B, 21-22
 * [[Infinitesimal Calculus 1]] 
 	* Format: Handwritten
 	* Language: Hebrew
@@ -25,7 +25,7 @@ Feel free to contact me for any inquiries.
 	* Format: Handwritten
 	* Language: Hebrew
 ---
-#### Semester 3
+#### Semester A, 22-23
 * [[Mathematical Methods 1]]
 	* Format: Handwritten
 	* Language: Hebrew
@@ -33,12 +33,12 @@ Feel free to contact me for any inquiries.
 	* Format: Typed (Latex)
 	* Language: Hebrew
 ---
-#### Semester 4
+#### Semester B, 22-23
 * [[Neurobiology and Brain Sciences]]
 	* Format: Typed (Markdown)
 	* Language: Hebrew
 ---
-#### Semester 5
+#### Semester A, 23-24
 * [[Advanced Biostatistics]]
 	* Format: Typed (Latex)
 	* Language: English
@@ -50,4 +50,4 @@ Feel free to contact me for any inquiries.
 	* Language: Hebrew
 
 ---
-#### Semester 6
+#### Semester B, 23-24

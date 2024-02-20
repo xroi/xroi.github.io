@@ -1,4 +1,1 @@
-%% Begin Waypoint %%
-
-
-%% End Waypoint %%
+- [[סיכום מלא - חלק תיאורטי.pdf]]
