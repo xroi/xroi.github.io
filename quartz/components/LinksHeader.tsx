@@ -42,7 +42,7 @@ export default (() => {
             <img src=""></img>
             <a href=""></a>
           </span>
-                    <div className={classNames(displayClass, "darkmode")}>
+                    <div className="darkmode" id="HeaderDM">
                         <input className="toggle" id="darkmode-toggle" type="checkbox" tabIndex={-1} />
                         <label id="toggle-label-light" htmlFor="darkmode-toggle" tabIndex={-1}>
                             <svg

@@ -1,3 +1,9 @@
+@media screen and (max-width: 1500px) {
+  #HeaderDM{
+    display: none;
+  }
+}
+
 .darkmode {
   position: relative;
   width: 20px;
@@ -47,3 +53,4 @@
     opacity: 0;
   }
 }
+
