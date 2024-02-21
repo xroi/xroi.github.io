@@ -1,6 +1,7 @@
 This note details some steps I took in my personal quartz configuration. Mostly intended for my own memory but also in case anyone want to replicate it.
 
-* Removal of the graph and backlinks view by commenting out the usage of `Component.Graph()` and `Component.Backlinks()` from `quartz.layout.ts`.
+* Removal of the backlinks view by commenting out the usage of `Component.Backlinks()` from `quartz.layout.ts`.
+* Moved the graph view to the left, and removed the small title.
 * Modification of the footer in `Footer.tsx`
 * Added a header with `LinksHeader.tsx` and `linksHeader.scss` .
 * Typography used: 
