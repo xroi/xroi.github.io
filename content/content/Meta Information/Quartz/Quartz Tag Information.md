@@ -4,4 +4,18 @@
 - `tags`: Tags for this note.
 - `draft`: Whether to publish the page or not. This is one way to make pages private.
 
+These are added as properties in the following format at the start of a document:
+
+```
+---
+title: Example Title
+draft: false
+tags:
+  - example-tag
+---
+ 
+The rest of your content lives here. You can use **Markdown** here :)
+```
+
+
 Abbreviated from [here](https://quartz.jzhao.xyz/authoring-content).

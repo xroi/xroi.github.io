@@ -1,1 +1,2 @@
-- [[סיכום מלא - חלק תיאורטי.pdf]]
+- [[סיכום מלא - חלק תיאורטי (ישן).pdf]] (old version)
+- [[סיכום מלא - חלק תיאורטי.pdf]] (Updated 10/04/2024, fixed formatting and errors)
