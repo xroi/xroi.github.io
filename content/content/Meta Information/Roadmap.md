@@ -10,10 +10,10 @@ draft: "True"
 * [ ] Add a publications page
 * [ ] Add a projects page
 * [ ] Add a research page
-* [ ] Add my lecture notes
+* [x] Add my lecture notes
 * [ ] Add book reviews, incl general philosophy
 * [x] Understand and add a meta note about what's useful to know regarding note properties in quartz. (Are private/template notes still synced with GitHub?)~~
-* [ ] Figure out what to put in header and maybe personalize it a bit. 
+* [x] Figure out what to put in header and maybe personalize it a bit. 
 * [ ] Figure out how to remove meta information only from some notes (I don't want "Feb 16, 2024, 1 min read" on my homepage)
 * [ ] Figure out if phone editing is possible
 
