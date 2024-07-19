@@ -1,9 +1,9 @@
 %% Begin Waypoint %%
 - **Quartz**
-	- [[My Quartz Configuration]]
-	- [[Quartz Tag Information]]
+	- [[My quartz configuration]]
+	- [[Quartz tag information]]
 - [[Roadmap]]
-- [[Workflow & Deployment Information]]
+- [[Workflow & deployment information]]
 
 %% End Waypoint %%
 
