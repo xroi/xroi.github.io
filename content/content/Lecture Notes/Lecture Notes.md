@@ -48,7 +48,7 @@ Feel free to contact me for any inquiries.
 * [Mathematical Tools For Computer Science](Mathematical%20Tools%20For%20Computer%20Science/Mathematical%20Tools%20For%20Computer%20Science.md)
 	* Format: Typed (Latex)
 	* Language: English
-* [Introduction To Cryptography and Software Security](Introduction%20To%20Cryptography%20and%20Software%20Security/Introduction%20To%20Cryptography%20and%20Software%20Security.md)
+* [Introduction to Cryptography and Software Security](Introduction%20to%20Cryptography%20and%20Software%20Security/Introduction%20to%20Cryptography%20and%20Software%20Security.md)
 	* Format: Typed (Latex)
 	* Language: Hebrew
 
