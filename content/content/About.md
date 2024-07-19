@@ -9,4 +9,7 @@ You can feel free to reach me at the following places:
 * 💻 [GitHub](https://github.com/xroi)
 * 💼 [LinkedIn](https://www.linkedin.com/in/roi-eliasian-22630a166/)
 #### > Random facts
-I am a student, video game developer, nerd, gamer, and a reader. My favourite book is  The Brothers Karamazov. I also write Hebrew poetry.
+- I am a student, video game developer, nerd, gamer, and a reader. 
+- My favourite book is the Brothers Karamazov.
+- I write Hebrew poetry.
+- 
