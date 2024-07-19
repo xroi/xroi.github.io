@@ -34,4 +34,6 @@ I use the shell command plugin in order to run these commands straight from the 
 Note that building with quartz actually temporarily deletes the `content` folder, so if you set it as the vault that will cause obsidian to crash. To overcome that you can set the vault in a folder above it. The location of the `content` is also customizable for both commands above using the `-d` flag.
 ###### Waypoint 
 I use waypoint to automatically generate & update tables of contents for all of my folders. Usage: `%% Waypoint %%`.
-However I recently found it to 
+
+###### WikiLinks vs Markdown links
+I decided to disable the default usage of WikiLinks in Obsidian, as it led to some link resolution problems with Quartz. This choice is also available in Waypoint. In addition, It’s what the markdown standard defines a link should look like, and it’s what’s supported on most apps, scripts and services. It’s also more future-proof.

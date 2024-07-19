@@ -1,5 +1,5 @@
 %% Begin Waypoint %%
-- [[Poetry]]
-- [[VCS tips]]
+- [Poetry](./Poetry.md)
+- [VCS tips](./VCS%20tips.md)
 
 %% End Waypoint %%
