@@ -5,6 +5,7 @@ This note details some steps I took in my personal quartz configuration. Mostly 
 * Modification of the footer in `Footer.tsx`
 * Added a header with `LinksHeader.tsx` and `linksHeader.scss`.
 * moved the light/dark mode switch button to the top right corner of the centre div.
+* Had to set `markdownLinkResolution: "absolute"` to prevent broken wikilinks.
 * Typography used: 
 ```
 typography: {  

@@ -33,4 +33,5 @@ npx quartz sync
 I use the shell command plugin in order to run these commands straight from the obsidian editor. An interesting side effect of this is that command can be written as a markdown link. For example, here's a link to the build and push command as an obsidian URL [Build & Push](obsidian://shell-commands/?vault=content&execute=un0sfyl7nj) (Actually, this does nothing on the static website, so you'll have to believe me that it works).
 Note that building with quartz actually temporarily deletes the `content` folder, so if you set it as the vault that will cause obsidian to crash. To overcome that you can set the vault in a folder above it. The location of the `content` is also customizable for both commands above using the `-d` flag.
 ###### Waypoint 
-I use waypoint to automatically generate & update tables of contents for all of my folders. Usage: `%% Waypoint %%`
+I use waypoint to automatically generate & update tables of contents for all of my folders. Usage: `%% Waypoint %%`.
+However I recently found it to 
