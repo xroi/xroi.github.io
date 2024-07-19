@@ -7,48 +7,48 @@ Feel free to contact me for any inquiries.
 
 ----
 #### Semester A, 21-22
-* [Linear Algebra 1](content/Lecture%20Notes/Linear%20Algebra%201/Linear%20Algebra%201.md)
+* [Linear Algebra 1](Linear%20Algebra%201/Linear%20Algebra%201.md)
 	* Format: Handwritten
 	* Language: Hebrew
-* [Discrete Math](content/Lecture%20Notes/Discrete%20Math/Discrete%20Math.md)
+* [Discrete Math](Discrete%20Math/Discrete%20Math.md)
 	* Format: Handwritten
 	* Language: Hebrew
 ---
 #### Semester B, 21-22
-* [Infinitesimal Calculus 1](Infinitesimal%20Calculus%201)
+* [Infinitesimal Calculus 1](Infinitesimal%20Calculus%201/Infinitesimal%20Calculus%201.md)
 	* Format: Handwritten
 	* Language: Hebrew
-* [Linear Algebra 2](content/Lecture%20Notes/Linear%20Algebra%202/Linear%20Algebra%202.md)
+* [Linear Algebra 2](Linear%20Algebra%202/Linear%20Algebra%202.md)
 	* Format: Handwritten
 	* Language: Hebrew
-* [Organic Chemistry](content/Lecture%20Notes/Organic%20Chemistry/Organic%20Chemistry.md)
+* [Organic Chemistry](Organic%20Chemistry/Organic%20Chemistry.md)
 	* Format: Handwritten
 	* Language: Hebrew
-* [Introduction to Genetics](content/Lecture%20Notes/Introduction%20to%20Genetics/Introduction%20to%20Genetics.md)
+* [Introduction to Genetics](Introduction%20to%20Genetics/Introduction%20to%20Genetics.md)
 	* Format: Typed (Google Docs)
 	* Language: Hebrew
 ---
 #### Semester A, 22-23
-* [Mathematical Methods 1](content/Lecture%20Notes/Mathematical%20Methods%201/Mathematical%20Methods%201.md)
+* [Mathematical Methods 1](Mathematical%20Methods%201/Mathematical%20Methods%201.md)]
 	* Format: Handwritten
 	* Language: Hebrew
-* [Algorithms](content/Lecture%20Notes/Algorithms/Algorithms.md)
+* [Algorithms](Algorithms/Algorithms.md)]
 	* Format: Typed (Latex)
 	* Language: Hebrew
 ---
 #### Semester B, 22-23
-* [Neurobiology and Brain Sciences](content/Lecture%20Notes/Neurobiology%20and%20Brain%20Sciences/Neurobiology%20and%20Brain%20Sciences.md)
+* [Neurobiology and Brain Sciences](Neurobiology%20and%20Brain%20Sciences/Neurobiology%20and%20Brain%20Sciences.md)
 	* Format: Typed (Markdown)
 	* Language: Hebrew
 ---
 #### Semester A, 23-24
-* [Advanced Biostatistics](content/Lecture%20Notes/Advanced%20Biostatistics/Advanced%20Biostatistics.md)
+* [Advanced Biostatistics](Advanced%20Biostatistics/Advanced%20Biostatistics.md)]
 	* Format: Typed (Google Docs)
 	* Language: Hebrew
-* [Mathematical Tools For Computer Science](content/Lecture%20Notes/Mathematical%20Tools%20For%20Computer%20Science/Mathematical%20Tools%20For%20Computer%20Science.md)
+* [Mathematical Tools For Computer Science](Mathematical%20Tools%20For%20Computer%20Science/Mathematical%20Tools%20For%20Computer%20Science.md)
 	* Format: Typed (Latex)
 	* Language: English
-* [Introduction to Cryptography and Software Security](content/Lecture%20Notes/Introduction%20to%20Cryptography%20and%20Software%20Security/Introduction%20to%20Cryptography%20and%20Software%20Security.md)
+* [Introduction to Cryptography and Software Security](Introduction%20to%20Cryptography%20and%20Software%20Security/Introduction%20to%20Cryptography%20and%20Software%20Security.md)]
 	* Format: Typed (Latex)
 	* Language: Hebrew
 
