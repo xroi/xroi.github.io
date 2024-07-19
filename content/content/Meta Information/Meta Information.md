@@ -1,8 +1,8 @@
 %% Begin Waypoint %%
 - **Quartz**
-	- [My quartz configuration](./Quartz/My%20quartz%20configuration.md)
-	- [Quartz tag information](./Quartz/Quartz%20tag%20information.md)
-- [Workflow & deployment information](./Workflow%20&%20deployment%20information.md)
+	- [My Quartz Configuration](./Quartz/My%20Quartz%20Configuration.md)
+	- [Quartz Tag Information](./Quartz/Quartz%20Tag%20Information.md)
+- [Workflow & Deployment Information](./Workflow%20&%20Deployment%20Information.md)
 
 %% End Waypoint %%
 

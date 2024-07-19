@@ -29,10 +29,10 @@ Feel free to contact me for any inquiries.
 	* Language: Hebrew
 ---
 #### Semester A, 22-23
-* [Mathematical Methods 1](Mathematical%20Methods%201/Mathematical%20Methods%201.md)]
+* [Mathematical Methods 1](Mathematical%20Methods%201/Mathematical%20Methods%201.md)
 	* Format: Handwritten
 	* Language: Hebrew
-* [Algorithms](Algorithms/Algorithms.md)]
+* [Algorithms](Algorithms/Algorithms.md)
 	* Format: Typed (Latex)
 	* Language: Hebrew
 ---
@@ -42,13 +42,13 @@ Feel free to contact me for any inquiries.
 	* Language: Hebrew
 ---
 #### Semester A, 23-24
-* [Advanced Biostatistics](Advanced%20Biostatistics/Advanced%20Biostatistics.md)]
+* [Advanced Biostatistics](Advanced%20Biostatistics/Advanced%20Biostatistics.md)
 	* Format: Typed (Google Docs)
 	* Language: Hebrew
 * [Mathematical Tools For Computer Science](Mathematical%20Tools%20For%20Computer%20Science/Mathematical%20Tools%20For%20Computer%20Science.md)
 	* Format: Typed (Latex)
 	* Language: English
-* [Introduction to Cryptography and Software Security](Introduction%20to%20Cryptography%20and%20Software%20Security/Introduction%20to%20Cryptography%20and%20Software%20Security.md)]
+* [Introduction To Cryptography and Software Security](Introduction%20To%20Cryptography%20and%20Software%20Security/Introduction%20To%20Cryptography%20and%20Software%20Security.md)
 	* Format: Typed (Latex)
 	* Language: Hebrew
 
