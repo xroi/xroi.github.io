@@ -1,6 +1,3 @@
----
-draft: "False"
----
 This note has some useful Version Control System (VCS) tips.
 
 ###### Picking a license
