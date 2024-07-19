@@ -12,4 +12,3 @@ You can feel free to reach me at the following places:
 - I am a student, video game developer, nerd, gamer, and a reader. 
 - My favourite book is the Brothers Karamazov.
 - I write Hebrew poetry.
-- 
