@@ -52,7 +52,7 @@ cssclass: rtl-class
 In the `custom.scss` file:
 ```css
 .rtl-class,
-.rtl-class * {
+.rtl-class *:not(.math) {
   direction: rtl;
 }```
 Example: [רשימת הגדרות, אלגוריתמים, נוסחאות מסדי נתונים](../../Random/רשימת%20הגדרות,%20אלגוריתמים,%20נוסחאות%20מסדי%20נתונים.md)

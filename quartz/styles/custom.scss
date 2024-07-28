@@ -3,6 +3,6 @@
 // put your custom CSS here!
 
 .rtl-class,
-.rtl-class * {
+.rtl-class *:not(.math) {
   direction: rtl;
 }
