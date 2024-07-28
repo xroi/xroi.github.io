@@ -58,8 +58,11 @@ In the `custom.scss` file:
 
 .rtl-class {
   .math,
-  .code {
-    direction: ltr;
+  .code,
+  .math *,
+  .code * {
+    direction: ltr !important;
+    text-align: left !important;
   }
 }
 ```
