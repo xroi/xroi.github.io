@@ -11,5 +11,6 @@ draft: "True"
 * [ ] Figure out how to remove meta information only from some notes (I don't want "Feb 16, 2024, 1 min read" on my homepage)
 * [ ] Figure out if phone editing is possible
 * [ ] add video game rankings
+* [ ] Write a journal of learning rust while developing lp-rs. dedicate daily hours to learning a document everything for reflection!
 
 
