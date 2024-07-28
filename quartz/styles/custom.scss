@@ -3,6 +3,13 @@
 // put your custom CSS here!
 
 .rtl-class,
-.rtl-class *:not(.math) {
+.rtl-class * {
   direction: rtl;
+}
+
+.rtl-class {
+  .math,
+  .code {
+    direction: ltr;
+  }
 }
