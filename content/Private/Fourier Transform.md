@@ -1,1 +1,0 @@
-This concept comes up often so I decided to write on it to further my understanding of it.
