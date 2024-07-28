@@ -47,9 +47,16 @@ ul,
   hyphens: auto;
 }
 
+//.math {
+//  &.math-display {
+//    text-align: center;
+//  }
+//}
+// Modify the existing .math class
 .math {
   &.math-display {
     text-align: center;
+    direction: ltr; // Ensure LTR for displayed math
   }
 }
 
@@ -504,3 +511,28 @@ ol.overflow {
     padding-left: 1rem;
   }
 }
+
+
+// New
+html[dir="rtl"] {
+  .page article {
+    direction: rtl;
+  }
+
+  .math,
+  .math *,
+  pre,
+  code,
+  .math-display {
+    direction: ltr;
+  }
+
+  blockquote {
+    border-left: none;
+    border-right: 3px solid var(--secondary);
+    padding-left: 0;
+    padding-right: 1rem;
+  }
+}
+
+
