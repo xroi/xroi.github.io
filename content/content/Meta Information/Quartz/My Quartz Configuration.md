@@ -57,12 +57,12 @@ In the `custom.scss` file:
 }
 
 .rtl-class {
+  .katex,
   .math,
-  .code,
-  .math *,
-  .code * {
-    direction: ltr !important;
-    text-align: left !important;
+  pre,
+  code {
+    direction: ltr;
+    unicode-bidi: isolate;
   }
 }
 ```
