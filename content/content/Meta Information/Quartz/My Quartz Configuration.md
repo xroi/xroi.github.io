@@ -39,3 +39,20 @@ colors: {
   }
 }
 ```
+
+#### RTL Support
+RTL used to be supported in quartz (v3.2) but is absent in the latest version (v4). A solution for page-specific right-to-left support was to add a `cssclass` to the frontmatter of specific notes.
+In the notes:
+```
+---
+title: some page with right to left text.
+cssclass: rtl-class
+---
+```
+In the `custom.scss` file:
+```css
+.rtl-class,
+.rtl-class * {
+  direction: rtl;
+}```
+Example: [רשימת הגדרות, אלגוריתמים, נוסחאות מסדי נתונים](../../Random/רשימת%20הגדרות,%20אלגוריתמים,%20נוסחאות%20מסדי%20נתונים.md)
