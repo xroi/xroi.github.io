@@ -51,11 +51,22 @@ cssclass: rtl-class
 ```
 In the `custom.scss` file:
 ```css
-.rtl-class {
+.rtl-class,
+.rtl-class * {
   direction: rtl;
+}
 
-  & > *:not(.katex):not(.math):not(pre):not(code) {
-    direction: rtl;
+.rtl-class {
+  .katex,
+  .katex *,
+  .math,
+  .math *,
+  pre,
+  pre *,
+  code,
+  code * {
+    direction: ltr;
+    unicode-bidi: isolate;
   }
 }
 ```
