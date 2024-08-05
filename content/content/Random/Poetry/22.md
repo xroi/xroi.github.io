@@ -1,4 +1,0 @@
----
-cssclasses:
-  - rtl-class
----

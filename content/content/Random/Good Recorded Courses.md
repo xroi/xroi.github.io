@@ -6,3 +6,4 @@
 - Yale Music Theory Course - [link](https://www.youtube.com/playlist?list=PL9LXrs9vCXK56qtyK4qcqwHrbf0em_81r)
 - U Waterloo Logic for CS - propositional logic + first order logic - [link](https://www.youtube.com/playlist?list=PLzVTusWerVcKx3crsij5wrRfIqWp3UXc7)
 - Unreal Engine 5 | C++ Tutorial - [link](https://www.youtube.com/playlist?list=PL-m4pn2uJvXHL5rxdudkhqrSRM5gN43YN)
+- Northwestern University CS-340 Intro to Computer Networking - [link](https://www.youtube.com/playlist?list=PLWl7jvxH18r3nnotitKkyAjq268PQGc0-)
