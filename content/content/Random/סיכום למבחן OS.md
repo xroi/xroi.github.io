@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - rtl-class
+---
 
 ## 1 - מבוא
 
