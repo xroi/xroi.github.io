@@ -33,7 +33,7 @@ Feel free to contact me for any inquiries.
 	* Format: Handwritten
 	* Language: Hebrew
 * [Algorithms](Algorithms/Algorithms.md)
-	* Format: Typed (Latex)
+	* Format: Typed (LaTeX)
 	* Language: Hebrew
 ---
 #### Semester B, 22-23
@@ -46,11 +46,14 @@ Feel free to contact me for any inquiries.
 	* Format: Typed (Google Docs)
 	* Language: Hebrew
 * [Mathematical Tools For Computer Science](Mathematical%20Tools%20For%20Computer%20Science/Mathematical%20Tools%20For%20Computer%20Science.md)
-	* Format: Typed (Latex)
+	* Format: Typed (LaTeX)
 	* Language: English
 * [Introduction to Cryptography and Software Security](Introduction%20to%20Cryptography%20and%20Software%20Security/Introduction%20to%20Cryptography%20and%20Software%20Security.md)
-	* Format: Typed (Latex)
+	* Format: Typed (LaTeX)
 	* Language: Hebrew
 
 ---
 #### Semester B, 23-24
+- [Computational Models, Computability and Complexity](Computational%20Models,%20Computability%20and%20Complexity/Computational%20Models,%20Computability%20and%20Complexity.md)
+	- Format: Typed (LaTeX)
+	- Language: Hebrew
