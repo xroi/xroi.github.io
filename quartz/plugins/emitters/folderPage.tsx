@@ -47,7 +47,7 @@ export const FolderPage: QuartzEmitterPlugin<Partial<FolderPageOptions>> = (user
         ...header,
         ...beforeBody,
         pageBody,
-        ...afterBody,
+        // ...afterBody,
         ...left,
         ...right,
         Footer,
