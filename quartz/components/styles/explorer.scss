@@ -43,8 +43,8 @@ button#explorer {
 
 #explorer-content {
   list-style: none;
-  overflow: hidden;
-  max-height: none;
+  overflow-y: auto; // Change from 'hidden' to 'auto'
+  max-height: 20vh; // Set a maximum height, adjust as needed
   transition:
     max-height 0.35s ease,
     visibility 0s linear 0s;

@@ -4,7 +4,7 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [Component.LinksHeader()],
+  header: [Component.LinksHeader(), Component.DesktopOnly(Component.Darkmode())],
   footer: Component.Footer({
     links: {
       "GitHub Repo": "https://github.com/xroi/xroi.github.io"
@@ -25,7 +25,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.DesktopOnly(Component.Graph()),
-    Component.DesktopOnly(Component.Explorer()),
+    // Component.DesktopOnly(Component.Explorer()),
     // Component.Darkmode(),
     Component.MobileOnly(Component.Darkmode())
   ],

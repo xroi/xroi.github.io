@@ -9,6 +9,7 @@ import darkmodeScript from "./scripts/darkmode.inline"
 import { version } from "../../package.json"
 import styles from "./styles/darkmode.scss"
 import Darkmode from "./Darkmode";
+import * as Component from "./index";
 
 interface Options {
     links: Record<string, string>
@@ -43,7 +44,6 @@ export default (() => {
             <img src=""></img>
             <a href=""></a>
           </span>
-                    <Darkmode></Darkmode>
                 </div>
                 <hr style="background-color: var(--lightgray); border-top: 1px var(--gray) solid; margin-top: 1.3rem"></hr>
             </div>
