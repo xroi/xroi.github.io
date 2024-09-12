@@ -10,5 +10,6 @@ private/
 .replit
 replit.nix
 content/private/
+content/private-notes/
 content/.obsidian/
 content/.trash/
