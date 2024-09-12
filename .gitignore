@@ -9,4 +9,6 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
-content/Private/
+content/private/
+content/.obsidian/
+content/.trash/
