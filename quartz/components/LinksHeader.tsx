@@ -21,31 +21,40 @@ export default (() => {
             <div>
                 <div id="links-header">
           <span>
-            <img src=""></img>
-            <a href="/">Home</a>
+            <a href="/">
+                <img src=""></img>
+                Home
+            </a>
           </span>
                     <span>
-            <img src=""></img>
-            <a href="/About">About</a>
+
+            <a href="/About">
+                <img src=""></img>
+                About</a>
           </span>
                     <span>
-            <img src=""></img>
-            <a href="/Lecture-Notes/Lecture-Notes">Lecture Notes</a>
+
+            <a href="/Lecture-Notes/Lecture-Notes">
+                <img src=""></img>
+                Lecture Notes</a>
           </span>
                     <span>
-            <img src=""></img>
-            <a href=""></a>
+            <a href="">
+                <img src=""></img>
+            </a>
           </span>
                     <span>
-            <img src=""></img>
-            <a href=""></a>
+            <a href="">
+                <img src=""></img>
+            </a>
           </span>
                     <span>
-            <img src=""></img>
-            <a href=""></a>
+            <a href="">
+                <img src=""></img>
+            </a>
           </span>
                 </div>
-                <hr style="background-color: var(--lightgray); border-top: 1px var(--gray) solid; margin-top: 1.3rem"></hr>
+                <hr style="background-color: var(--lightgray); border-top: 0.8px var(--lightgray) solid; margin-top: 1.3rem"></hr>
             </div>
         )
     }

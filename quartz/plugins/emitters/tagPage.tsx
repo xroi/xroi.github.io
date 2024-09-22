@@ -44,7 +44,7 @@ export const TagPage: QuartzEmitterPlugin<Partial<TagPageOptions>> = (userOpts) 
         ...header,
         ...beforeBody,
         pageBody,
-        // ...afterBody,
+        ...afterBody,
         ...left,
         ...right,
         Footer,

@@ -4,12 +4,13 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [Component.LinksHeader(), Component.DesktopOnly(Component.Darkmode())],
+  header: [Component.LinksHeader()],
   footer: Component.Footer({
     links: {
       "GitHub Repo": "https://github.com/xroi/xroi.github.io"
     },
   }),
+  afterBody: []
 }
 
 // components for pages that display a single page (e.g. a single note)
@@ -18,7 +19,7 @@ export const defaultContentPageLayout: PageLayout = {
     // Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.TagList(),
+    Component.TagList()
   ],
   left: [
     Component.PageTitle(),
@@ -27,10 +28,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Graph()),
     // Component.DesktopOnly(Component.Explorer()),
     // Component.Darkmode(),
-    Component.MobileOnly(Component.Darkmode())
+    // Component.MobileOnly(Component.Darkmode()),
+
+
   ],
   right: [
-
+    Component.Darkmode(),
     Component.DesktopOnly(Component.TableOfContents()),
     //Component.Backlinks(),
   ],

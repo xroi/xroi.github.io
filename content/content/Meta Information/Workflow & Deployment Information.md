@@ -4,6 +4,10 @@ This note holds general information regarding my workflow and they way I publish
 * Obsidian Plugins:
 	* Shell Commands
 	* Waypoint
+	* Hard breaks
+	* File Color
+	* Consistent Attachments and Links
+	* Attachment Management
 * Quartz 4.0
 * GitHub Pages
 * WebStorm
@@ -46,3 +50,10 @@ It's useful to make git locally treat filenames as case-sensitive. This is due t
 ```
 git config core.ignorecase false
 ```
+I also use a git submodule further discussed in the following section.
+
+###### Handling Private Notes
+It is more comfortable for me to have a single obsidian vault with a separate private note directory rather than having to mark each note as private individually. I also wished to back them up separately on a private git repository. The way obsidian vaults work, symlinks are dangerous, therefore I decided to add a git submodule inside the contents folder, which would be ignored by the main website repo. 
+
+###### Attachment management
+When adding images to my notes I typically just copy and paste them. On default, obsidian just places the image file in the same folder as the note, with a non helpful name. Towards fixing this I use 2 plugins: `Attachment Management` Which allows attachment to be automatically renamed with some parameters, for example the date or the file name. `Consistent Attachments and Links` which allows moving attachments with files (and fixing wikilink paths) automatically. So for each folder where the notes inside have image attachments, there's a nested `Attachments` folder. When I paste an image into a note, it goes into `<note path>/Attachments/<note name>`. 
