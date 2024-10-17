@@ -20,3 +20,10 @@
     unicode-bidi: isolate;
   }
 }
+
+.space {
+    background: url('/background.gif') gray;
+    background-repeat: repeat;
+    overflow-x: hidden;
+    cursor: url('/cursor.png'), auto;
+}
