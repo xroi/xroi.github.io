@@ -24,9 +24,8 @@ For most technical and general website configuration operations I use WebStorm. 
 
 To build and host the website locally, I use:
 ```
-npx quartz build --serve --port 34621
+npx quartz build --serve --port <port>
 ```
-The random port was chosen since the default one (8080) is probably in use by something else.
 
 To build and push the website to GitHub, I use:
 ```
