@@ -1,4 +1,4 @@
-Current main focus: Advancing interpretation of Nuclear Pore Complex imaging through simulations and machine learning. 
+Current focus: Advancing interpretation of Nuclear Pore Complex imaging through simulations and machine learning. 
 
 Papers:
 - B. Raveh, R. Eliasian, S. Rashkovits, D. Russel, R. Hayama, S. Sparks, D. Singh, R. Lim, E. Villa, M. Rout, D. Cowburn, and A. Sali “**Integrative spatiotemporal map of nucleocytoplasmic transport”** bioRxiv \[Preprint], 2023. ([https://doi.org/10.1101/2023.12.31.573409](https://doi.org/10.1101/2023.12.31.573409))
